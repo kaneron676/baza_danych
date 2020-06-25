@@ -18,7 +18,7 @@
 </head>
 
 <body>
-	
+	<h1>Zaloguj się pracowniku!</h1>
 	<form action="zaloguj.php" method="post">
 	
 		Login: <br /> <input type="text" name="login" /> <br />

@@ -6,17 +6,17 @@
 </head>
 
 <body>
-		
-	<h1>Baza danych sprzetu</h1>
-    <p>
-	<a href="logowanie_pracownik.php">Pracóóóóśownik</a>
-    </p>
-    
-    <p>
-    <a href="logowanie_operator.php">Operator</a>
-	</p>
-    
 
- 
+	<h1>Wypożyczalnia sprzętu.</h1>
+    <p>
+			<a href="logowanie_pracownik.php">Pracownik</a>
+    </p>
+
+    <p>
+    	<a href="logowanie_operator.php">Operator</a>
+		</p>
+
+
+
 </body>
 </html>
